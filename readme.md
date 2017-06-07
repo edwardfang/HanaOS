@@ -4,6 +4,8 @@
 
 ## 完结撒花🎉
 
+Thanks a lot for @imxieyi's hard work.
+
 生命不息，挖坑不止。
 
 尝试用更现代化的方式实现OSASK类似的简易操作系统（伪）。
